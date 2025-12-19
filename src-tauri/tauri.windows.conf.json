@@ -3,7 +3,7 @@
     "icon": ["png/weekly_256.ico", "png/weekly_32.ico"],
     "active": true,
     "resources": ["png/weekly_32.ico"],
-    "targets": ["msi"],
+    "targets": ["msi", "nsis"],
     "windows": {
       "digestAlgorithm": "sha256",
       "wix": {
